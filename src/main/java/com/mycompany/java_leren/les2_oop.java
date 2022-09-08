@@ -10,5 +10,7 @@ package com.mycompany.java_leren;
  */
 public class les2_oop {
     
-    // comment
+    // zie: https://www.w3schools.com/java/java_oop.asp
+    // So, a class is a template for objects, and an object is an instance of a class.
+    //When the individual objects are created, they inherit all the variables and methods from the class.
 }
