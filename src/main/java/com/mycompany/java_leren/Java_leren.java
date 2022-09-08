@@ -35,7 +35,7 @@ public class Java_leren {
 
         double myNum2 = plusMethod(4.3, 6.26);
         int myNum1 = plusMethod(8, 5);
-
+// commentaar
         System.out.println(
                 "int: " + myNum1);
         System.out.println(

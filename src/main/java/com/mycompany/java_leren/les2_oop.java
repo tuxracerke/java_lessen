@@ -10,4 +10,5 @@ package com.mycompany.java_leren;
  */
 public class les2_oop {
     
+    // comment
 }
